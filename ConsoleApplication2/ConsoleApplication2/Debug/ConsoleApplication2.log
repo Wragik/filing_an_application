@@ -1,0 +1,2 @@
+﻿  LINK : не найден или не выполнена сборка D:\ConsoleApplication2\Debug\ConsoleApplication2.exe при последней инкрементной компоновке; выполняется полная компоновка
+LINK : fatal error LNK1105: не удается закрыть файл "D:\ConsoleApplication2\Debug\ConsoleApplication2.exe"
